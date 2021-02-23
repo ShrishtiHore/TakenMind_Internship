@@ -1,4 +1,4 @@
-# Taken_Mind_Internship
+# TakenMind Internship
 A repository for all the weekly assignments done during the Training period of my Global Internship in Taken_Mind along with the Final Project and their documentation.
 
 The tasks given to me were aimed to understand data trying to control attrition. There are two sets of data: “Existing employees” and “Employees who have left”.  Following attributes are available for every employee:
